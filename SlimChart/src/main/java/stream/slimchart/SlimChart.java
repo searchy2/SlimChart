@@ -1,4 +1,4 @@
-package com.mancj.slimchart;
+package stream.slimchart;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

@@ -1,14 +1,12 @@
-package com.mancj.example;
+package stream.slimchartapp;
 
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 
-import com.mancj.slimchart.SlimChart;
+import stream.slimchart.SlimChart;
 
 import java.util.ArrayList;
 

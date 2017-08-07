@@ -11,10 +11,10 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="24dp"
-    tools:context="com.mancj.example.MainActivity"
+    tools:context="com.slimchart.example.com.slimchartapp.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <com.mancj.slimchart.SlimChart
+    <stream.slimchart.SlimChart
         app:roundedEdges="true"
         app:text="234"
         app:strokeWidth="8dp"
